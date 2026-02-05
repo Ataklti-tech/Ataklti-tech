@@ -1,6 +1,14 @@
 # 💫 About Me:
-I'm currently doing my Bachelor of Science in Software Engineering<br>I'm learning full-stack web development <br>Learning HTML5, CSS3, JavaScript, React.js, Node.js, and MySQL <br>Interested in AI and MACHINE LEARNING
+I'm a Bachelor of Science in Software Engineering graduate (awaiting graduation)  
+A passionate full-stack developer with expertise in web development and backend systems  
 
+**Skills & Technologies:**  
+- **Frontend:** HTML5, CSS3, JavaScript, React.js  
+- **Backend:** Node.js, Express.js, FastAPI, Python  
+- **Databases:** MySQL, MongoDB 
+- **AI & Machine Learning:** Currently learning and mastering AI/ML techniques, including working with Large Language Models (LLMs)  
+
+I focus on building real-world applications and constantly improving my problem-solving, software engineering, and AI/ML skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ataklti-okbe-531326325/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Atakltiokbe) 
